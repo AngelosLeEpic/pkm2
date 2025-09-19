@@ -38,7 +38,3 @@
 		- Distance vector routing
 		- The problem of count to infinity in the context of networks
 		- Establishing root tables
-
-
-
-https://tcd.blackboard.com/ultra/courses/_102396_1/outline/edit/document/_3692205_1?courseId=_102396_1&view=content&state=view
