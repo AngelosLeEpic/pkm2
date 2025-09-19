@@ -1,0 +1,4 @@
+- go to pump room and drain the fountain to get there, needs a special key
+- ![image.png](image_1751212488583_0.png)
+-
+- #BP

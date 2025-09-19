@@ -1,0 +1,3 @@
+- one of the door connected to this room from the outside is a leaver that activates an elevator, elevator takes you to another side of the basement door
+- i need the basement key
+- what happens if you enter the house from the foundation using a keycard?

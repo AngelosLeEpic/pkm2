@@ -1,0 +1,4 @@
+- a frame is conceptually a capsule of data (ones and zeroes) that is prepared for transmission, this is not to be confused with [[packets]], which are network layer concepts
+- A frame in structured with a header, this contens the LAN address of the machine that it is to be sent to, a large payload field with the actual data and a trail.
+- frame management is a core responsibility of the [[data link]] layer
+-

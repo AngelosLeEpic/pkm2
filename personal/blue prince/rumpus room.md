@@ -1,0 +1,2 @@
+- white and red chess board floor coloring
+- black bishop

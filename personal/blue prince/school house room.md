@@ -1,0 +1,8 @@
+- an old broken down classroom, probably to privately educate members of the estate, has a boiler or heater of some kind in the center, the board has "within a timely manor" written on it, possibly a reference to the old man himself
+- The heater has a golden pipe that connects it to one of the burning bowl things in the view of the mountain outside, on the bottom left,
+- I hate this room
+- ![image.png](image_1751306223711_0.png)
+- ![image.png](image_1751306256428_0.png)
+- ![image.png](image_1751306265010_0.png)
+-
+-

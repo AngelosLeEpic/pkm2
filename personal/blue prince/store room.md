@@ -1,0 +1,6 @@
+- Has yellow pawn
+- ![image.png](image_1751205008688_0.png)
+- ![image.png](image_1751205015044_0.png)
+- large white wooden horse toy
+-
+- #BP

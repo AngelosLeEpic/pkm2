@@ -1,0 +1,4 @@
+- spot the difference? what? ![image.png](image_1751307237333_0.png)
+- all the children in the classroom like red, the class has a red flag
+- ![image.png](image_1751307310734_0.png)
+- caleb really likes red

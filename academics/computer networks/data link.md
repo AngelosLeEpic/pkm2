@@ -1,0 +1,5 @@
+- The $$2^{nd}$$ layer of the [[ISO model]], this layer uses the tools of the physical layer to encapsulate data into frames and prepare them for transmission, when this data is framed, it is send over to a destination machine in the LAN, usually a router, which will then use network protocols, such as TCP/IP to send the data over to the network layer if needed
+- Provides services to the network layer
+- The Data links responsibility is to split the data stream into [[frame]]s that will be packaged by the [[network layer]] and send to the receiver, the data link has to abstract away protocols that relate to [[error detection]] and [[error correction]] which are used when transferring [[frame]]s
+- Some error correction protocols include [[Hamming code]]s
+- Some error detection protocols include #TODO

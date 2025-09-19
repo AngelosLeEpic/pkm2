@@ -1,0 +1,44 @@
+- CSU33031
+- Taught by professor Stefan Weber
+- 100% exam based module
+- Answer 2 of 3 questions
+- ## Question about exam structure
+	- A it seems that last year's papers did a lot to give the definition of each acronym, is this on purpose and can we expect it to happen again?
+	- Q3 a) was literally the exact same question on the past two years, is this something we can expect
+- ## Exam structure
+- ### Q1
+	- a)
+		- flow control
+		- [[HDLC]]
+		- S-Frame acknowledgement
+		- [[Selective repeat ARQ]]
+		- Stop and wait ARQ
+	- b)
+		- checksums and OPv4
+		- Hamming Code
+		- IP headers
+		- CRC and ethernet frames
+		- Error detection
+- ### Q2
+	- a)
+		- Code Division Multiple Access
+		- Carrier Sense Multiple Access / Collision Detection (CSMA/CD)
+		- Time Division Multiple Access
+	- b)
+		- IEEE 802.11 ( Be able to describe how PCF and DCF work with diagrams )
+			- PCF
+			- DCF
+- ### Q3
+	- a)
+		- 802.3 Ethernet Link layer protocol
+		- NAT gateways
+		- Describe in detail how the link layer works in ethernet
+	- b)
+		- Link state routing
+		- Distance vector routing
+		- The problem of count to infinity in the context of networks
+		- Establishing root tables
+
+
+
+https://tcd.blackboard.com/ultra/courses/_102396_1/outline/edit/document/_3692205_1?courseId=_102396_1&view=content&state=view

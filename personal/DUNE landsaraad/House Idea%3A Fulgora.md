@@ -1,0 +1,34 @@
+#### Title card
+- ### Background
+	- House Fulgora starts of it's story in the planet Fulgora, a oilly desert planet with endless monsoons and a very powerful magnetic field.
+	- Originally the planet was a scrap-yard used by the spacing guild to dump unused and discontinued space fairing vessels, during the peak of the spacing guild, it was more expensive to dump these large vessels than to fully recycle them, in many instances it still is
+	- Over the millennia, scavengers began to reside within the planet's hostile environment, despite the planet's mild temperatures the use of stillsuits was needed due to the lack of oxygen (see Geography of Fulgora for details)
+	- The culture of Fulgora was massively shaped due to a high demand of technology that would help remedy the hostility of the environment, due to the planet's conditions, arrays of underground complexes and factories would be built, with massive spiralling lightning rods that would then harvest the planet's natural lighting storms and would power many of the machines that were needed for survival.
+	- It is during this time that the need for a global governence was needed, thus over time with the natural pull of power towards oligrarchy, house Fulgora was born roughly 400 AG (After Guild).
+	- It is suspected that it was at this time that the Ix had cought wind of the people of Fulgora, often the Ix see outsiders as lesser due to their fear of technological progress, but the Fulgorian attitude of science for the sake of survival was believed to have been admirable to the Ix.
+	- It is believe that it was then the Ix would assist Fulgora in building the first notion
+	- The notions are the official title of Fulgorian mega projects, marvels of engineering that can shape entire planets or even solar systems
+	- The first notion was the arc-twins, two gigantic planetary lightning rods on each pole of Fulgora that would attract the lock the monsoon activities of the planet to these two regions, essentially converting the whole planet from a oil-desert monsoon wasteland to a tolerable oil-desert wasteland with two massive endless storms on both poles, converting the planet's endless monsoons into an infinite source of energy.
+	- Over time this attitude became a norm in Fulgora, looking at technological progress as a means to survival, it is important to note that Fulgorians are more so engineers than scientists, interest exists in the fields of physics and engineering, but not so much in biology or computation.
+- ### Geography of Fulgora
+-
+- ### Specialty
+	- Institute of hypothetical physics
+		- One of the most critical things the Ix had noticed was the tendency of children to play in the ruins of once spice-filled space navigation ships while also participating to a high level of science centered education, having taken notes on the training of mentats, the Ix decided to fund a secret project, the institute of hypothetical physics, the final stage of mentat training, the test that makes a mentat into an advisor is the test of retoric, a test to see a mentat's ability to explain their reasoning to normal people such as their clients, these Fulgorian mentats are not trained as such, they are trained to endlessly compute only
+		- In the spice filled halls of this underground institute, all spice the Fulgorians found left behind was stored to feed these mentats, each of them making entire branches of physics, simulations and experiemnts in their heads, and requesting experiments to assistants, which are then run, within these halls entire fields of theoretical physics are created and are maybe erased just minutes later due to their incompatibility with reality while being quickly discussed among these mentats, the difference between these mentants and thinking machines are frankly blurred
+	- Weaponized physics & The H.A.D project
+		- Throughout human history, the weatherization of physics had always lead to some of the greatest leaps in the human ability to kill others, from gunpowder, to explosives, to the atomic bomb, once a leap in science in a specific field occurs it becomes easier to kill others than do anything else.
+		- The Holman Activity Denial (H.A.D) is a subatomic weapon first theorized within the institute and kept by the mentats as pure  theory #TODO (What if the house mentat was the inventor of this weapon???) until the beginnings of the recent landsaraad #TODO (Explain why recent events in the landsaraad have caused the institute to reconsider the existence of a H.A.D effect)
+-
+- ### Relations
+	- Due to their investment, admiration and frankly commitment, the Ix and the Fulgorians are in good terms, though the Fulgorians are in the Favour of the Ix
+- ### Public Agenda
+	- House Fulgora aims advance of the field of physics, utilising the spice for it's mentat enhancing abilities and is interested in the construction of large scale mega projects that push the boundaries of engineering
+- ### Private Agenda
+	- House Fulgora aims to engage in a conspiracy to destroy the Spacing Guild as revenge for their mis-treatment of Fulgora
+		- Fulgora aims to use the H.A.D to target the Junction, By disrupting the local Holtzman effects the junction will be isolated, no one will be able to travel to or from the junction and prescience will not work to and from the junction, to the navigators it will be as if the Junction just "dissipated" from the mind of prescience
+		- By effectively handicapping the junction, all remaining space navigators will be forced to work with the major houses and house Corrino, therefore removing one of the three pillars of power, the spacing guild would have no effective purpose and space navigation would become privatized.
+		- As a stretch goal, by also reducing spice production we are going to make space navigation a think of the past, causing everyone to have to work with the Ix in making machine based space navigation feasible, therefore we are going to force the whole empire to take the mentality of progress for survival, forcing humanity to walk back the great convention
+	- Fulgora aims to sabotage the production of spice, making it challenging especially for space navigators to access spice and effectively starving out the navigators
+-
+- #DUNE

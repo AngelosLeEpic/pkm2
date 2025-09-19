@@ -1,0 +1,4 @@
+- has a yellow pawn
+- has many clocks
+- ![image.png](image_1751204755824_0.png)
+- #BP

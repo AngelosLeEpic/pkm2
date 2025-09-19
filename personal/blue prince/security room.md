@@ -1,0 +1,7 @@
+- red statements are false
+- blue statements are true
+- password: swansong
+- knight piece
+- this room has power pipes
+- ![image.png](image_1751204932286_0.png)
+- #BP

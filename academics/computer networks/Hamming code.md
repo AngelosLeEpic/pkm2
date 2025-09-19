@@ -1,0 +1,11 @@
+- The hamming code is an error correction algorithm
+- This means it is used to correct the [[frame]] given to the receiver
+  id:: 6829e7f5-413e-4b9f-ac11-b46abe1a3c01
+- The hamming distance is the number of bits two codewords differ in that are valid in the hamming schema
+- To apply the hamming code we insert the values into a matrix, e.g
+- #TODO Finish this example, too lazy to write it sadly :(
+- $$01101001100 -> \begin{matrix}x & p_2 & p_3\end{matrix}$$
+-
+- #TODO figure out what is meant by error syndrome
+- ## useful resources
+	- {{video https://www.youtube.com/watch?v=X8jsijhllIA&pp=0gcJCdgAo7VqN5tD}}

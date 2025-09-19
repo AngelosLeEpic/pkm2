@@ -1,0 +1,3 @@
+- ![image.png](image_1752397435216_0.png)
+- ![image.png](image_1752397446315_0.png)
+- white bishop

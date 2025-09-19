@@ -1,0 +1,10 @@
+- A method to designate different frames in the data link layer before sending them out or while reading them
+- Hight-Level Data Link Control protocol
+- each [[frame]] begins and ends with a special bit pattern, 01111110 = 0x7E
+- this is known as the flag byte
+- As the [[data link]] layer processes the data, when it encounters 5 1s in a row, it stuffs a 0 into the outgoing bit stream
+- for example $01011111100010$ -> $010111110100010$
+- this bit stuffing is analogous to byte stuffing
+- it ensures a minimum density of transitions, meaning we flip from 1 to 0 many times so that the protocols in the physical layer can remain in sync, this is why this method is often used in [[USB]]
+- the receiver automatically removes the additional 0 every time they read 5 consecutive 1
+- 1
